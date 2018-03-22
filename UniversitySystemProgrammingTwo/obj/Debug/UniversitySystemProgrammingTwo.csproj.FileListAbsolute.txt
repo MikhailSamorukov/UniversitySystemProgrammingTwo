@@ -1,0 +1,8 @@
+c:\users\михаил\documents\visual studio 2017\Projects\UniversitySystemProgrammingTwo\UniversitySystemProgrammingTwo\bin\Debug\UniversitySystemProgrammingTwo.exe.config
+c:\users\михаил\documents\visual studio 2017\Projects\UniversitySystemProgrammingTwo\UniversitySystemProgrammingTwo\bin\Debug\UniversitySystemProgrammingTwo.exe
+c:\users\михаил\documents\visual studio 2017\Projects\UniversitySystemProgrammingTwo\UniversitySystemProgrammingTwo\bin\Debug\UniversitySystemProgrammingTwo.pdb
+c:\users\михаил\documents\visual studio 2017\Projects\UniversitySystemProgrammingTwo\UniversitySystemProgrammingTwo\bin\Debug\MatrixOperations.dll
+c:\users\михаил\documents\visual studio 2017\Projects\UniversitySystemProgrammingTwo\UniversitySystemProgrammingTwo\bin\Debug\MatrixOperations.pdb
+c:\users\михаил\documents\visual studio 2017\Projects\UniversitySystemProgrammingTwo\UniversitySystemProgrammingTwo\obj\Debug\UniversitySystemProgrammingTwo.csprojResolveAssemblyReference.cache
+c:\users\михаил\documents\visual studio 2017\Projects\UniversitySystemProgrammingTwo\UniversitySystemProgrammingTwo\obj\Debug\UniversitySystemProgrammingTwo.exe
+c:\users\михаил\documents\visual studio 2017\Projects\UniversitySystemProgrammingTwo\UniversitySystemProgrammingTwo\obj\Debug\UniversitySystemProgrammingTwo.pdb

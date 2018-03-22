@@ -1,0 +1,5 @@
+c:\users\михаил\documents\visual studio 2017\Projects\UniversitySystemProgrammingTwo\MatrixOperations\bin\Debug\MatrixOperations.dll
+c:\users\михаил\documents\visual studio 2017\Projects\UniversitySystemProgrammingTwo\MatrixOperations\bin\Debug\MatrixOperations.pdb
+c:\users\михаил\documents\visual studio 2017\Projects\UniversitySystemProgrammingTwo\MatrixOperations\obj\Debug\MatrixOperations.csprojResolveAssemblyReference.cache
+c:\users\михаил\documents\visual studio 2017\Projects\UniversitySystemProgrammingTwo\MatrixOperations\obj\Debug\MatrixOperations.dll
+c:\users\михаил\documents\visual studio 2017\Projects\UniversitySystemProgrammingTwo\MatrixOperations\obj\Debug\MatrixOperations.pdb
